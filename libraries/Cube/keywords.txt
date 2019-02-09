@@ -1,0 +1,40 @@
+﻿#######################################
+# Syntax Coloring Map Cube
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Cube	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+LED	KEYWORD2
+revLED	KEYWORD2
+SPI_Init	KEYWORD2
+uebertragung	KEYWORD2
+PAUSE	KEYWORD2
+clean	KEYWORD2
+heart	KEYWORD2
+pulse	KEYWORD2
+edgeFill	KEYWORD2
+edgeClear	KEYWORD2
+crossDemo	KEYWORD2
+splitter	KEYWORD2
+wallsBeta	KEYWORD2
+spirale	KEYWORD2
+_print	KEYWORD2
+heartbeat	KEYWORD2
+flash	KEYWORD2
+box	KEYWORD2
+scan	KEYWORD2
+scanner	KEYWORD2
+vave	KEYWORD2
+loading	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+letter	LITERAL1
+edgeShape	LITERAL1
